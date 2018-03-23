@@ -15,10 +15,8 @@
             "sharing": {
                 "enabled": true,
                 "networks": [
-                    "facebook",
-                    "twitter",
-                    "pinterest",
-                    "linkedin"
+                    "email",
+                    "google-plus"
                 ],
                 "domain": "videos.letsdoit.com"
             },
