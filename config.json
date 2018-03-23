@@ -15,6 +15,20 @@
             "playback": {
                 "autonext": true
             }
+        },
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "videos.letsdoit.com"
+            }
         }
     }
 }
