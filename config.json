@@ -13,7 +13,7 @@
         "cookiedomain": "letsdoit.com",
         "player": {
             "playback": {
-                "autoplay": true
+                "autonext": true
             }
         }
     }
