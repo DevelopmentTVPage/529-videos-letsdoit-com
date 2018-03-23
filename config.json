@@ -12,8 +12,19 @@
         "firstpartycookies": true,
         "cookiedomain": "letsdoit.com",
         "player": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "linkedin"
+                ],
+                "domain": "videos.letsdoit.com"
+            },
             "playback": {
-                "autonext": true
+                "autoplay": false,
+                "autonext": false
             }
         },
         "hub": {
@@ -25,7 +36,11 @@
                     "pinterest",
                     "linkedin"
                 ],
-                "domain": "videos.letsdoit.com\/sub"
+                "domain": "videos.letsdoit.com"
+            },
+            "playback": {
+                "autoplay": false,
+                "autonext": false
             }
         }
     }
