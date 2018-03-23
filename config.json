@@ -10,6 +10,25 @@
         "loginId": "1758799",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "letsdoit.com"
+        "cookiedomain": "letsdoit.com",
+        "player": {
+            "playback": {
+                "autonext": true
+            }
+        },
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "videos.letsdoit.com"
+            }
+        }
     }
 }
