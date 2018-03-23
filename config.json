@@ -10,6 +10,11 @@
         "loginId": "1758799",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "letsdoit.com"
+        "cookiedomain": "letsdoit.com",
+        "player": {
+            "playback": {
+                "autoplay": true
+            }
+        }
     }
 }
